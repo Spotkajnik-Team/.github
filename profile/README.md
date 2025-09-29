@@ -1,3 +1,5 @@
+![Spotkajnik Logo](spotkajnik-logo.png)
+
 # 📌 Przydatne linki
 - 🌍 Aspire Dashboard: http://10.114.0.2:18888
 - ⚙️ Minio Console: http://10.114.0.5:9001
